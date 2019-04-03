@@ -1,4 +1,5 @@
-##Davis-Putnam algorithm 
+# Davis-Putnam algorithm 
+
 Implement Davis-Putnam algorithm and use it to solve parallel program optimization problem.
 
 **Input Format:**
